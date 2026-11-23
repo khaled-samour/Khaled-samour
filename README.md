@@ -1,8 +1,10 @@
 # Khaled Samour
 
-**Cybersecurity Engineering student | Networking | Programming | Information Security**
+**Cybersecurity Engineering student | Networking · Programming · Web Development · Information Security**
 
-Second-year Cybersecurity Engineering student at the University College of Applied Sciences (UCAS), Gaza, Palestine. I build networking labs and Telegram automation tools, and I am working toward network security and penetration testing.
+Second-year Cybersecurity Engineering student at the University College of Applied Sciences (UCAS), Gaza, Palestine. My work spans computer networking, programming in Python, PHP and JavaScript, web development with Laravel, and information security. I learn best by building: network labs, web applications, and automation tools, while working toward network security and penetration testing.
+
+The projects below are examples of this work in practice.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khaled-samour-3678763a1/)
 ![Location](https://img.shields.io/badge/Location-Gaza%2C%20Palestine-green?style=flat)
